@@ -38,8 +38,25 @@ Este README tem como objetivo mostrar o processo de criação do ambiente básic
 
 ![nuvem-hibrida-priava-publica](https://github.com/user-attachments/assets/74be086f-32f9-4894-adf3-d0332960e47e)
 
+➡️ Sobre a Azure:
 
-
+A Azure se baseia nos conceitos da computação em nuvem (um conjunto de serviços que é usado por meio da internet para construir e rodar qualquer tipo de sistema). Anteriormente as empresas tinham que arcar com os custos e trabalho de: 
+ - comprar servidores
+ - instalar sistemas
+ - manter tudo ativo
+ - pagar os custos com energia 
+ - segurança e atualização de hardwares
+Com os serviços da Azure você aluga tudo isso e só paga pelo que usa, diminuindo os gastos de um on-premises, executa a infraestrutura com mais eficiência e escala as operações em conformidade com as necessidades do negócio
+Possibilidades de serviços usando a Azure:
+ - criar servidores virtuais
+ - armazenar arquivos
+ - gerenciar bancos de dados
+ - desenvolver aplicativos
+ - treinar IA
+ - proteger sistemas
+ - conectar redes
+ - fazer análises de dados
+ - integrar dispositivos IoT
 
 
 
