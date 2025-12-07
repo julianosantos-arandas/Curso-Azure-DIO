@@ -64,6 +64,7 @@ Com os serviços da Azure você aluga tudo isso e só paga pelo que usa, diminui
  - A Azure copia seu sistema para várias zonas independentes, garantindo que, se uma falhar, o serviço continue funcionando sem interrupção.
 
 ➡️ Criar o ambiente básico: 
+
 <img width="1553" height="483" alt="image" src="https://github.com/user-attachments/assets/24747086-61a0-4670-95bd-930d6b5aa4e7" />
 
  - 🌐 Criar conta na Azure:
@@ -86,14 +87,17 @@ Com os serviços da Azure você aluga tudo isso e só paga pelo que usa, diminui
       - Resource group name: rg-lab-juliano
       - Region: Brazil South (ou East US se quiser mais barato)
    - Clique em Review + Create → Create
+ 
   <img width="1225" height="798" alt="create-account-basics-v2" src="https://github.com/user-attachments/assets/98762d61-7fa7-4721-aafa-3d6856826ff1" />
 
  - 🏗 Criar um Data Factory:
    - Cique no serviço Azure Data Factory.
-     <img width="807" height="236" alt="image" src="https://github.com/user-attachments/assets/84bf1217-cdc1-4ec7-955d-0ac0d252decc" />
+
+      <img width="807" height="236" alt="image" src="https://github.com/user-attachments/assets/84bf1217-cdc1-4ec7-955d-0ac0d252decc" />
 
    - Clique em: Create (Criar)
-     <img width="259" height="210" alt="image" src="https://github.com/user-attachments/assets/5622b6ae-2177-4e5c-a995-f0434e170c7c" />
+
+      <img width="259" height="210" alt="image" src="https://github.com/user-attachments/assets/5622b6ae-2177-4e5c-a995-f0434e170c7c" />
 
    - Preencher as configurações básicas:
       - Project details
