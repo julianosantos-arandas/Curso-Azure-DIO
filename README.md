@@ -107,7 +107,8 @@ Com os serviços da Azure você aluga tudo isso e só paga pelo que usa, diminui
       - Name: adf-juliano-lab (não pode ter espaço nem acento)
       - Region: East US ou Brazil South (East US geralmente é mais barato)
       - Version - Select version: V2 (sempre escolha V2)
-        <img width="738" height="611" alt="image" src="https://github.com/user-attachments/assets/0d8ac802-5867-46c8-b116-ff90b9506dfd" />
+
+         <img width="738" height="611" alt="image" src="https://github.com/user-attachments/assets/0d8ac802-5867-46c8-b116-ff90b9506dfd" />
 
    - Revisar e criar:
       - Review + Create
@@ -116,7 +117,9 @@ Com os serviços da Azure você aluga tudo isso e só paga pelo que usa, diminui
    - Abrir o Data factory:
       - Go to resource
       - Launch Data Factory Studio
+
         <img width="1398" height="611" alt="image" src="https://github.com/user-attachments/assets/0e397788-534b-4e4e-967c-6980d2be61b0" />
+        
       - Por meio deste painel você cria:
          - Pipelines
          - Dataflows
