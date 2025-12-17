@@ -128,5 +128,7 @@ Com os serviços da Azure você aluga tudo isso e só paga pelo que usa, diminui
          - Integrações com Storage, SQL entre outros recursos.
 
 
+➡️ O principal aprendizado do estudo da Microsoft Azure é que a computação em nuvem vai além de apenas hospedar servidores; trata-se de desenvolver ambientes escaláveis, resilientes e voltados para negócios, nos quais a infraestrutura, os dados e as aplicações podem se expandir de maneira integrada. A Azure possibilita que as empresas deixem de investir em estruturas físicas complexas e passem a concentrar-se em inovação, automação e tomada de decisões, pagando apenas pelos recursos consumidos e ajustando o ambiente de acordo com a demanda.
+
 
      
